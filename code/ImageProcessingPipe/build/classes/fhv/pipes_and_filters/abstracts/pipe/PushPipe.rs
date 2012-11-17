@@ -1,1 +1,0 @@
-fhv.pipes_and_filters.abstracts.PushPipe
